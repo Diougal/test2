@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: lightslategrey;
+    margin-top: 20px;
+    height: 60px;
+}
+main{
+    margin-top: 20px;
+}
+section{
+    margin-top: 20px;
+    height: 400px;
+    background-color: lightseagreen;
+}
+footer{
+    margin-top: 20px;
+    height: 100px;
+    background-color: lightslategrey;
+}
